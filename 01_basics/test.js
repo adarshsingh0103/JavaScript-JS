@@ -1,1 +1,7 @@
 console.log("Adarsh")
+console.log('Here the javascript magic:')
+console.log("when we do 1 + '1'. it becomes")
+console.log(1 + '1')
+console.log("when we do 1 - '1'. it becomes") 
+console.log(1 - '1')
+console.log('hahahaa... Mazik')
